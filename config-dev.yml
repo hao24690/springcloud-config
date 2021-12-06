@@ -1,7 +1,2 @@
-server:
-  port: 3344
-  
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eurekadevdevdevdev
+config
+  info: config-dev.yml

@@ -1,2 +1,2 @@
 config:
-  client: config-dev.yml  master
+  client: config-dev.yml
